@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "317293557901",
+    "project_id": "oasis-pit-stop",
+    "storage_bucket": "oasis-pit-stop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317293557901:android:7ed7433a72353c6e890ac4",
+        "android_client_info": {
+          "package_name": "com.mazeapps.oasispitstop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317293557901-3lvgd5qv9dqvc6aig1crqdv7dbjs3l42.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mazeapps.oasispitstop",
+            "certificate_hash": "39abc26f666f291f4c143a9f1912f556eb0a3b7b"
+          }
+        },
+        {
+          "client_id": "317293557901-gglrsrrd6sa6e6ffh9iadsfkdhhb4mnf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mazeapps.oasispitstop",
+            "certificate_hash": "4b57fa78d17d18a6f352cf3c25946f48f94fc4c0"
+          }
+        },
+        {
+          "client_id": "317293557901-jk54bfpkl8kulgu2nv8m9naqhouvpktu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mazeapps.oasispitstop",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "317293557901-kit2212slfgfd3klvcldimvt0a5m6oc7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mazeapps.oasispitstop",
+            "certificate_hash": "3da4277c0c110fc2efaf03a9f0addf148cb2d915"
+          }
+        },
+        {
+          "client_id": "317293557901-v453uobuu37i6d51i9nof5sb28hhqo4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgfsBBY7xqqahPFMriya9lmtUiA0FUO18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317293557901-v453uobuu37i6d51i9nof5sb28hhqo4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

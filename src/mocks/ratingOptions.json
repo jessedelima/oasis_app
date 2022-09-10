@@ -1,0 +1,13 @@
+[
+	{ "label": "10 - Muito Satisfeito", "value": 10 },
+	{ "label": "9 - Muito Satisfeito", "value": 9 },
+	{ "label": "8 - Satisfeito", "value": 8 },
+	{ "label": "7 - Satisfeito", "value": 7 },
+	{ "label": "6 - Regular", "value": 6 },
+	{ "label": "5 - Regular", "value": 5 },
+	{ "label": "4 - Insatisfeito", "value": 4 },
+	{ "label": "3 - Insatisfeito", "value": 3 },
+	{ "label": "2 - Insatisfeito", "value": 2 },
+	{ "label": "1 - Muito Insatisfeito", "value": 1 },
+	{ "label": "0 - Muito Insatisfeito", "value": 0 }
+]

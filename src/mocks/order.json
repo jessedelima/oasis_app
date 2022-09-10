@@ -1,0 +1,124 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"user": {
+				"id": 1,
+				"name": "Bruno Henrique da Silva Lucena",
+				"type": "customer",
+				"cpf": "18569870001",
+				"birthday": "13/10/1999",
+				"email": "brunohenriquelucena@gmail.com",
+				"phone": "35997305967",
+				"address": {
+					"id": 1,
+					"street": "Rua Teste",
+					"city": "Poços de Caldas",
+					"state": "MG",
+					"number": "18",
+					"district": "Centro"
+				}
+			},
+			"deliveryType": 1,
+			"paymentType": 0,
+			"formOfPayment": null,
+			"address": {
+				"id": 1,
+				"street": "Rua Teste",
+				"city": "Poços de Caldas",
+				"state": "MG",
+				"number": "18",
+				"district": "Centro"
+			},
+			"card": {
+				"id": 1,
+				"nickname": "Cartao 1",
+				"holderName": "BRUNO H SILVA LUCENA",
+				"cpf": "18569870001",
+				"number": "4000 **** **** 1100",
+				"cvv": 128,
+				"validate": "02/23"
+			},
+			"comments": "Sem Gelo",
+			"totalPrice": 47,
+			"products": [
+				{
+					"id": 3,
+					"name": "Refrigerante",
+					"description": "Aqui vai a descricao do produto",
+					"price": 6.00,
+					"quantity": 8,
+					"tags": ["refrigerante", "promocoes"] 
+				},
+				{
+					"id": 2,
+					"name": "Caixa Brahma 30 unidades leve 5 pague 4",
+					"description": "Aqui vai a descricao do produto",
+					"quantity": 5,
+					"price": 3.5,
+					"tags": ["Cerveja", "promocoes"] 
+				}
+			],
+			"status": "Finalizado",
+			"statusCode": 1,
+			"createdAt": "2021-01-20T10:31:43.000000Z",
+			"rate": null
+		},
+		{
+			"id": 2,
+			"user": {
+				"id": 1,
+				"name": "Bruno Henrique da Silva Lucena",
+				"type": "customer",
+				"cpf": "18569870001",
+				"birthday": "13/10/1999",
+				"email": "brunohenriquelucena@gmail.com",
+				"phone": "35997305967",
+				"address": {
+					"id": 1,
+					"street": "Rua Teste",
+					"city": "Poços de Caldas",
+					"state": "MG",
+					"number": "18",
+					"district": "Centro"
+				}
+			},
+			"deliveryType": 0,
+			"paymentType": 1,
+			"formOfPayment": 0,
+			"address": {
+				"id": 1,
+				"street": "Rua Teste",
+				"city": "Poços de Caldas",
+				"state": "MG",
+				"number": "18",
+				"district": "Centro"
+			},
+			"card": null,
+			"comments": "Sem Gelo",
+			"totalPrice": 47,
+			"products": [
+				{
+					"id": 3,
+					"name": "Refrigerante",
+					"description": "Aqui vai a descricao do produto",
+					"price": 6.00,
+					"quantity": 8,
+					"tags": ["refrigerante", "promocoes"] 
+				},
+				{
+					"id": 2,
+					"name": "Caixa Brahma 30 unidades leve 5 pague 4",
+					"description": "Aqui vai a descricao do produto",
+					"quantity": 5,
+					"price": 3.5,
+					"tags": ["Cerveja", "promocoes"] 
+				}
+			],
+			"status": "Aguardando Retirada",
+			"statusCode": 0,
+			"createdAt": "2021-01-05T10:31:43.000000Z",
+			"rate": null
+		}
+	]
+}
