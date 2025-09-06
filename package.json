@@ -28,6 +28,7 @@
     "cpf-cnpj-validator": "^1.0.3",
     "jwt-decode": "^3.1.2",
     "react": "16.13.1",
+    "react-is": "^16.13.1",
     "react-native": "0.63.4",
     "react-native-collapsible": "^1.5.3",
     "react-native-fbsdk-next": "^4.0.0",
@@ -42,7 +43,7 @@
     "react-native-swipe-gestures": "^1.0.5",
     "react-native-toast-message": "^1.4.9",
     "react-native-vector-icons": "^8.0.0",
-    "styled-components": "^5.2.1"
+    "styled-components": "^4.4.1"
   },
   "devDependencies": {
     "@babel/core": "^7.13.1",
